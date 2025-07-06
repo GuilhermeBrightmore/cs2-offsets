@@ -1483,6 +1483,7 @@
     },
     "CCSPlayer_ItemServices": {
         "m_bHasDefuser": "0x40",
+        "m_bHasHeavyArmor": "0x48",
         "m_bHasHelmet": "0x41"
     },
     "C_BarnLight": {

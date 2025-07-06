@@ -1826,6 +1826,7 @@
         "m_bInventoryImageRgbaRequested": "0x60",
         "m_bInventoryImageTriedCache": "0x61",
         "m_nInventoryImageRgbaWidth": "0x80",
+        "m_unOverrideStyle": "0x80",
         "m_nInventoryImageRgbaHeight": "0x84",
         "m_szCurrentLoadCachedFileName": "0x88",
         "m_bRestoreCustomMaterialAfterPrecache": "0x1B8",

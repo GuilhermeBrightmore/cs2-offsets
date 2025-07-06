@@ -73,7 +73,6 @@
     },
     "C_CSGameRules": {
         "m_bFreezePeriod": "0x40",
-        "m_bSpawnedTerrorHuntHeavy": "0x44",
         "m_bWarmupPeriod": "0x41",
         "m_fWarmupPeriodEnd": "0x44",
         "m_fWarmupPeriodStart": "0x48",
@@ -100,6 +99,7 @@
         "m_iHostagesRemaining": "0x90",
         "m_bAnyHostageReached": "0x94",
         "m_bMapHasBombTarget": "0x95",
+        "m_bSpawnedTerrorHuntHeavy": "0x95",
         "m_bMapHasRescueZone": "0x96",
         "m_bMapHasBuyZone": "0x97",
         "m_bIsQueuedMatchmaking": "0x98",

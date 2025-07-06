@@ -76,6 +76,7 @@
         "m_bWarmupPeriod": "0x41",
         "m_fWarmupPeriodEnd": "0x44",
         "m_fWarmupPeriodStart": "0x48",
+        "m_bSpawnedTerrorHuntHeavy": "0x1000",
         "m_bServerPaused": "0x4C",
         "m_bTerroristTimeOutActive": "0x4D",
         "m_bCTTimeOutActive": "0x4E",

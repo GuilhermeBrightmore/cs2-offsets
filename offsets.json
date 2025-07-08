@@ -7,15 +7,15 @@
         "forward": "0x1850B20",
         "jump": "0x1850DF0",
         "left": "0x1850C40",
-        "lookatweapon": "0x1A77020",
+        "lookatweapon": "0x1A77030",
         "reload": "0x1850850",
         "right": "0x1850CD0",
-        "showscores": "0x1A76F00",
+        "showscores": "0x1A76F10",
         "sprint": "0x18507C0",
         "turnleft": "0x1850A00",
         "turnright": "0x1850A90",
         "use": "0x1850D60",
-        "zoom": "0x1A76F90"
+        "zoom": "0x1A76FA0"
     },
     "CCSPlayer_MovementServices": {
         "m_vecLadderNormal": "0x218",
@@ -99,7 +99,6 @@
         "m_iHostagesRemaining": "0x90",
         "m_bAnyHostageReached": "0x94",
         "m_bMapHasBombTarget": "0x95",
-        "m_bSpawnedTerrorHuntHeavy": "0x95",
         "m_bMapHasRescueZone": "0x96",
         "m_bMapHasBuyZone": "0x97",
         "m_bIsQueuedMatchmaking": "0x98",
@@ -1484,7 +1483,6 @@
     },
     "CCSPlayer_ItemServices": {
         "m_bHasDefuser": "0x40",
-        "m_bHasHeavyArmor": "0x48",
         "m_bHasHelmet": "0x41"
     },
     "C_BarnLight": {
@@ -1826,7 +1824,6 @@
         "m_bInventoryImageRgbaRequested": "0x60",
         "m_bInventoryImageTriedCache": "0x61",
         "m_nInventoryImageRgbaWidth": "0x80",
-        "m_unOverrideStyle": "0x80",
         "m_nInventoryImageRgbaHeight": "0x84",
         "m_szCurrentLoadCachedFileName": "0x88",
         "m_bRestoreCustomMaterialAfterPrecache": "0x1B8",
@@ -3351,23 +3348,23 @@
         "m_hOwner": "0x20"
     },
     "client_dll": {
-        "dwCSGOInput": "0x1A77100",
-        "dwEntityList": "0x1A044C0",
-        "dwGameEntitySystem": "0x1B27B48",
+        "dwCSGOInput": "0x1A77110",
+        "dwEntityList": "0x1A044E0",
+        "dwGameEntitySystem": "0x1B27C08",
         "dwGameEntitySystem_highestEntityIndex": "0x20F0",
-        "dwGameRules": "0x1A68B28",
+        "dwGameRules": "0x1A68B48",
         "dwGlobalVars": "0x184BEB0",
-        "dwGlowManager": "0x1A68278",
-        "dwLocalPlayerController": "0x1A52D00",
+        "dwGlowManager": "0x1A68298",
+        "dwLocalPlayerController": "0x1A52D20",
         "dwLocalPlayerPawn": "0x18580D0",
-        "dwPlantedC4": "0x1A71C30",
+        "dwPlantedC4": "0x1A71C40",
         "dwPrediction": "0x1857F50",
-        "dwSensitivity": "0x1A69848",
+        "dwSensitivity": "0x1A69868",
         "dwSensitivity_sensitivity": "0x40",
-        "dwViewAngles": "0x1A774D0",
-        "dwViewMatrix": "0x1A6D260",
-        "dwViewRender": "0x1A6DB70",
-        "dwWeaponC4": "0x1A06550"
+        "dwViewAngles": "0x1A774E0",
+        "dwViewMatrix": "0x1A6D280",
+        "dwViewRender": "0x1A6DB90",
+        "dwWeaponC4": "0x1A06570"
     },
     "engine2_dll": {
         "dwBuildNumber": "0x540BE4",
